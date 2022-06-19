@@ -1,0 +1,27 @@
+.color-nav{
+    background-color: rgb(180, 35, 35);
+  }
+  .addButton{
+    width:30%;
+    float:right;
+
+}
+
+.removeButton{
+  margin-left: 45%;
+}
+
+.updateButton{
+  margin-left: 45%;
+}
+
+.toDoTable{
+  margin-top: 20px;
+  width: 50%;
+}
+
+Table,tr,th{
+
+  width:20%;
+
+}
